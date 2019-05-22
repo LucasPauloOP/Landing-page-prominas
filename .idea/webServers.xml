@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="72cc6112-a893-4cd1-9ad4-64cd4600b2af" name="https://github.com/LucasPauloOP/Landing-page-prominas" url="https://github.com/LucasPauloOP/Landing-page-prominas">
+        <fileTransfer port="0" mountedRoot="$PROJECT_DIR$" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
